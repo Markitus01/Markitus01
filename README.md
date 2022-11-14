@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning js, C#, SQL, Java, PHP
 - 💞️ I would like to develop useful things in the future like apps/tools for the workers
 - 📫 How to reach me:
--   Mail(colaboration) > marksand2001@gmail.com
+-   Mail(personal) > marksand2001@gmail.com
 -   Mail(professional) > masandivillo01@gmail.com
