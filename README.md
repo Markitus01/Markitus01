@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Markitus01, Spanish guy who's actually studying Greek (Αυτή τη στιγμή δεν μιλάω πολύ καλά, έχω Α1.) because i want to live in there in a few years!
+- 👀 I’m interested in javascript, C#, SQL, Linux, Java, html5, CSS, PHP, Python
+- 🌱 I’m currently learning js, C#, SQL, Java, PHP
+- 💞️ I would like to develop useful things in the future like apps/tools for the workers
+- 📫 How to reach me:
+-   Mail > marksand2001@gmail.com
