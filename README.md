@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mark</h1>
-<h3 align="center">A junior web development from Spain</h3>
+<h3 align="center">A junior/student web developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markitus01&label=Profile%20views&color=0e75b6&style=flat" alt="markitus01" /> </p>
 
