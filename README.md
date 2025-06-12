@@ -25,7 +25,7 @@
 ---
 
 <div>
-  <h4>🏆 Github Profile Trophy</h4>
+  <h3>🏆 Github Profile Trophy</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=Markitus01&column=7"/>
 </div>
 
