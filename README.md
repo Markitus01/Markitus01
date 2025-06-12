@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I’m currently working on personal & open-source projects (Laravel 12.x and more to come)
+- 🔭 I’m currently working on personal & open-source projects (Svelte, Laravel 12.x and more to come!)
 - 🌱 Always learning new Technologies
 - 📫 How to reach me: masandivillo01@gmail.com
 - 🌴 Loves materialist philosophy
