@@ -16,21 +16,6 @@
 
 ---
 
-<div>
-  <h2>👨🏻‍💻 GitHub Stats</h2>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Markitus01&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markitus01&layout=compact" />
-</div>    
-
----
-
-<div>
-  <h3>🏆 Github Profile Trophy</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=Markitus01&column=7"/>
-</div>
-
----
-
  ## 🛠 Skills
 - NET Core
 - C#
