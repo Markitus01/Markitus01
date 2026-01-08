@@ -11,6 +11,7 @@
 ---
 
  ## 🛠 Skills
+- ABAP
 - NET Core
 - C#
 - React
@@ -21,3 +22,5 @@
 - Laravel
 - CodeIgniter
 - HTML
+- XML
+- SAPUI5
