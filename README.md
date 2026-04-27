@@ -1,6 +1,6 @@
 # Hey, I'm Mark 👋
 
-Full-stack developer from Barcelona, currently building a festival website and exploring SAP's ecosystem by day.  
+Full-stack developer from Barcelona, currently building a festival website while diving deep into Svelte, Three.js and GSAP. 
 Materialist philosophy enthusiast by night, always learning something new.
 
 ---
