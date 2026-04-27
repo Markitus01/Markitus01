@@ -1,7 +1,7 @@
 # Hey, I'm Mark 👋
 
 Full-stack developer from Barcelona, currently building a festival website and exploring SAP's ecosystem by day.  
-Materialist philosophy enthusiast by night. Always learning something new.
+Materialist philosophy enthusiast by night, always learning something new.
 
 ---
 
@@ -22,6 +22,10 @@ Materialist philosophy enthusiast by night. Always learning something new.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 **Backend**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
@@ -30,6 +34,7 @@ Materialist philosophy enthusiast by night. Always learning something new.
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+![Sanity](https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=white)
 
 **SAP**  
 ![ABAP](https://img.shields.io/badge/ABAP-0070B1?style=flat&logo=sap&logoColor=white)
