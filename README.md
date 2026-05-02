@@ -1,6 +1,6 @@
 # Hey, I'm Mark 👋
 
-Full-stack developer from Barcelona, currently building a festival website while diving deep into Svelte, Three.js and GSAP. 
+Full-stack developer from Barcelona, currently building a festival website while diving deep into Svelte, PixiJS and GSAP. 
 Materialist philosophy enthusiast by night, always learning something new.
 
 ---
